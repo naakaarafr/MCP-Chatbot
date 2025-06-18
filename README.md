@@ -244,7 +244,9 @@ The chatbot provides detailed startup information:
 
 ## License
 
-This project is open source. Please check individual MCP server licenses for their respective terms.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Please check individual MCP server licenses for their respective terms.
 
 ## Support
 
